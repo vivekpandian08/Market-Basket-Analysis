@@ -14,4 +14,4 @@ The project is created with:
 - Python 3.6
 - libraries: MLxtend, pandas, numpy, matplotlib.
 
-To run this project use Jupyter Notebook or Google Colab.
+
